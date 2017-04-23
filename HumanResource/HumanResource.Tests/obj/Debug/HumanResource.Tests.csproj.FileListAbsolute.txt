@@ -1,0 +1,16 @@
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\HumanResource.Tests.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\HumanResource.Tests.pdb
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.Client.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.Common.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.Interfaces.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.Text.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.Client.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.Common.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\ServiceStack.Text.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\obj\Debug\HumanResource.Tests.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\obj\Debug\HumanResource.Tests.pdb
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Tests\obj\Debug\HumanResource.Tests.csprojResolveAssemblyReference.cache

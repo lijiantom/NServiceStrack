@@ -1,0 +1,12 @@
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\HumanResource.Client.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\HumanResource.Client.pdb
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\ServiceStack.Client.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\ServiceStack.Interfaces.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\ServiceStack.Text.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\ServiceStack.Client.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\ServiceStack.Text.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\obj\Debug\HumanResource.Client.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\obj\Debug\HumanResource.Client.pdb
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\obj\Debug\HumanResource.Client.csprojResolveAssemblyReference.cache
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\HumanResource.Contract.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Client\bin\Debug\HumanResource.Contract.pdb

@@ -1,0 +1,14 @@
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\HumanResource.Contract.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\HumanResource.Contract.pdb
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\obj\Debug\HumanResource.Contract.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\obj\Debug\HumanResource.Contract.pdb
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Client.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Common.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Interfaces.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Text.dll
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Client.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Common.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Text.xml
+D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\obj\Debug\HumanResource.Contract.csprojResolveAssemblyReference.cache
