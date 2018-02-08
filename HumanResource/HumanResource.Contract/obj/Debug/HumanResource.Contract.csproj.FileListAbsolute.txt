@@ -12,3 +12,17 @@ D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\Se
 D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Common.xml
 D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Text.xml
 D:\workspace\dev\NServiceStack\HumanResource\HumanResource.Contract\obj\Debug\HumanResource.Contract.csprojResolveAssemblyReference.cache
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\HumanResource.Contract.dll
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\HumanResource.Contract.pdb
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Client.dll
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Common.dll
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.dll
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Interfaces.dll
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Text.dll
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.xml
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Client.xml
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Common.xml
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\bin\Debug\ServiceStack.Text.xml
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\obj\Debug\HumanResource.Contract.csprojResolveAssemblyReference.cache
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\obj\Debug\HumanResource.Contract.dll
+C:\workspace\dev\NServiceStrack\HumanResource\HumanResource.Contract\obj\Debug\HumanResource.Contract.pdb
